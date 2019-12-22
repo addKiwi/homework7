@@ -88,7 +88,7 @@ p{
 @media (min-height: 800px) {
     @keyframes play {
         0%{
-            transform: perspective(250px) rotateX(20deg) translateY(730px);
+            transform: perspective(250px) rotateX(20deg) translateY(820px);
             opacity: 1;
         }
         85%{
